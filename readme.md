@@ -23,8 +23,8 @@ A device is performing perfectly if all the KPIs for a device during a month are
 
 # Result
 The result of this exercise is:
- - One or more Grafana dashboard definitions, stored as JSON files and committed to this GIT respository (see https://grafana.com/docs/grafana/latest/dashboards/manage-dashboards/#export-a-dashboard)
- - One or more Jasper Reports report defiitions, stored as JRXML files and committed to this GIT resository
+ - One or more Grafana dashboard definitions, stored as JSON files and committed to this GIT repository (see https://grafana.com/docs/grafana/latest/dashboards/manage-dashboards/#export-a-dashboard)
+ - One or more Jasper Reports report definitions, stored as JRXML files and committed to this GIT repository
 
 # Input Data
 
